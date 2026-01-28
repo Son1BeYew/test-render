@@ -1,0 +1,12 @@
+{
+  "name": "student-info-api",
+  "version": "1.0.0",
+  "description": "API hiển thị thông tin sinh viên",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["nodejs", "api", "student"],
+  "author": "Nguyễn Đạo Sơn",
+  "license": "ISC"
+}
